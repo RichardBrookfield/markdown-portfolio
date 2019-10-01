@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![The Neil](http://s3.amazonaws.com/drumlessonscom/00-drummers/neil-peart-thumb.jpg)
