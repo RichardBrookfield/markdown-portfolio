@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* Rush
+* All the world's a stage
+* Grace under pressure
